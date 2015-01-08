@@ -23,7 +23,7 @@ public class JavaApplication2 {
             case 1: System.out.println("Holi");
                 break;
             case 2:System.out.println("Holi 2");
-        //HOLA
+        //HOLA y adios
         
         }
     }
