@@ -15,12 +15,14 @@ public class JavaApplication2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
         Scanner leer = new Scanner(System.in);
-        
         double num1;
         double num2;
         double resultado;
+        System.out.print("Introduce un valor: ");
+        num1=leer=nextDouble();
+        System.out.print("Introduce otro valor: ");
+        num2=leer=nextDouble();
     }
     
 }
